@@ -5,7 +5,7 @@
 -->
 <div align="center">
   <a href="https://github.com/thalesgmartins/bifrost">
-    <img src="https://miro.medium.com/v2/resize:fit:798/1*FrYsyFjTh5UsAGidVZmTdw.png" alt="Logo" width="100" height="100">
+    <img src="https://i.ibb.co/spLCKpQp/logo-temporaria.png" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center" style="font-size:32px;">Bifrost</h3>
