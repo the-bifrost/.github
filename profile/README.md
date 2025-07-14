@@ -4,7 +4,7 @@
 <hr>
 -->
 <div align="center">
-  <a href="https://github.com/thalesgmartins/bifrost">
+  <a href="http://bifrost.kerlonr.com.br">
     <img src="https://i.ibb.co/spLCKpQp/logo-temporaria.png" alt="Logo" width="100" height="100">
   </a>
 
