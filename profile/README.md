@@ -87,15 +87,12 @@
 
 ```json
 {
-  "v": 1, //versao do codigo
-  "src": "source/fonte/sensor", //origem da mensagem
-  "dst": "destino", //destino da mensangem
-  "type": "tipo-da-mensagem", //tipo
-  "ts": 1686026400, //timestamp
-  "payload": {
-    //payload da mensagem
-    //dados específicos da mensagem
-  }
+  "v": 1,
+  "src": "source/fonte/sensor",
+  "dst": "destino",
+  "type": "tipo-da-mensagem",
+  "ts": 1686026400,
+  "payload": {}
 }
 ```
 
