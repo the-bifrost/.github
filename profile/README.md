@@ -5,7 +5,7 @@
 -->
 <div align="center">
   <a href="http://bifrost.kerlonr.com.br">
-    <img src="https://i.ibb.co/spLCKpQp/logo-temporaria.png" alt="Logo" width="100" height="100">
+    <img src="https://i.ibb.co/Zz7hnGtY/logo-bifrost.png" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center" style="font-size:32px;">Bifrost</h3>
